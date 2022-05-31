@@ -13,15 +13,8 @@
   grid-template-areas: header main footer;
   grid-template-rows: 60px 1fr 60px;
 }
-header{
-  background-color: blue;
-  color:#fff;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-weight: bold;
-  font-size: 26px;
-}
+/*  */
+
 
 footer{
   background-color: blue;
