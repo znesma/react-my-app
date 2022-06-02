@@ -1,0 +1,34 @@
+[
+    {
+        "id":"id1",
+        "title":"product1",
+        "imageUrl":"../public/images/product1.jpg",
+        "discription":"this is the first product",
+        "price":300,
+        "size":["s","m"]
+    },
+    {
+        "id":"id2",
+        "title":"product2",
+        "imageUrl":"../public/images/product2.jpg",
+        "discription":"this is the second product",
+        "price":50,
+        "size":["xs","l"]
+    },
+    {
+        "id":"id3",
+        "title":"product3",
+        "imageUrl":"../public/images/product3.jpg",
+        "discription":"this is the third product",
+        "price":80,
+        "size":["l","xl","xxl"]
+    },
+    {
+        "id":"id4",
+        "title":"product4",
+        "imageUrl":"../public/images/product4.jpg",
+        "discription":"this is the fourth product",
+        "price":500,
+        "size":["M","l"]
+    }
+]
